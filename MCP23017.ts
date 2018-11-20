@@ -1,7 +1,7 @@
 /*
 mcp23017 block
 */
-//% weight=90 color=#9900CC icon="\uf043" block="mcp23017"
+//% weight=90 color=#9900CC icon="\uf6ae" block="mcp23017"
 namespace MCP23017 {
 
 
