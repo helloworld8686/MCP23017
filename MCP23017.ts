@@ -1,9 +1,9 @@
 /*
 mcp23017 block
 */
-//% weight=70 color=#9900CC icon="\uf001" block="mcp23017"
+//% weight=70 color=#CC6633 icon="\uf001" block="mcp23017"
 namespace MCP23017 {
-    
+
     const MCP23017_IODIRA = 0x00
     const MCP23017_IPOLA = 0x02
     const MCP23017_GPINTENA = 0x04
